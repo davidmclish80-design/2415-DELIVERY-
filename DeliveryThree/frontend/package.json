@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.x",
+    "vuetify": "^3.x",
+    "pinia": "^2.x",
+    "vue-router": "^4.x",
+    "mqtt": "^5.x"
+  },
+  "devDependencies": {
+    "vite": "^5.x",
+    "@vitejs/plugin-vue": "^5.x"
+  }
+}

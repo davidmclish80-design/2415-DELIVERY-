@@ -7,14 +7,11 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vue": "^3.x",
-    "vuetify": "^3.x",
-    "pinia": "^2.x",
-    "vue-router": "^4.x",
-    "mqtt": "^5.x"
+    "chart.js": "^4.5.1",
+    "vue": "^3.5.13"
   },
   "devDependencies": {
-    "vite": "^5.x",
-    "@vitejs/plugin-vue": "^5.x"
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10"
   }
 }

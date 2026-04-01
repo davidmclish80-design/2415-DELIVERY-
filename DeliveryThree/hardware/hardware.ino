@@ -37,12 +37,12 @@ static const char* mqtt_server   = "www.yanacreations.com";
 static uint16_t mqtt_port        = 1883;
 
 // WIFI CREDENTIALS
-const char* ssid = "ARRIS-F53D";
-const char* password = "70DFF79FF53D";
+//const char* ssid = "ARRIS-F53D";
+//const char* password = "70DFF79FF53D";
 // const char* ssid = "gadfa’s iPhone";
 // const char* password = "12345678";
-//const char* ssid = "MonaConnect";
-//const char* password = "";
+const char* ssid = "MonaConnect";
+const char* password = "";
 
 // ---------- Prototypes needed by helper headers ----------
 void callback(char* topic, byte* payload, unsigned int length);
